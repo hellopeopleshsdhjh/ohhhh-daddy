@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+	background-color: #46494C;
+   color: white;
+	font-family: 'Montserrat', sans-serif;
+  overflow: hidden;
+}
+.top-navigation {
+	float: right;
+	margin-right: 25px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.top-navigation li {
+	list-style: none;
+	display: inline-block;
+	text-align: right;
+	bottom: ;
+	padding: 5px 10px 0 0;
+	vertical-align: bottom;
+	margin: 5px 5px 0 0;
+	font-size: 13px;
+}
